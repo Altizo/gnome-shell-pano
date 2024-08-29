@@ -395,7 +395,7 @@ msgstr "Очистить базу данных буфера обмена и кэ
 
 #: src/prefs/dangerZone/index.ts:12
 msgid "Danger Zone"
-msgstr "Зона опасности"
+msgstr "Опасная зона"
 
 #: src/prefs/dangerZone/sessionOnlyMode.ts:15
 msgid "Session Only Mode"
